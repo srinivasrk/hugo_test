@@ -20,7 +20,6 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "Applications developer and cloud enthusiast"
     avatarurl = "images/srini_dp.jpeg"
-    footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
 
